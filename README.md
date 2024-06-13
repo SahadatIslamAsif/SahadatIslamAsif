@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">About Me ✨</h3>
+<h2 align="left">About Me :</h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">Interest and Skills 🔥</h4>
+<h2 align="left">Interest and Skills : </h4>
 
 ###
 
