@@ -6,14 +6,9 @@
   </a>
 </h1>
 
-
 ###
 
 <p align="left">Greetings, Welcome here ! <br> I am Sahadat Islam Asif, an enthusiastic programmer and a student at American International University-Bangladesh (AIUB), where I am pursuing a Bachelor of Science in Computer Science and Engineering (CSE).💻
-
-
-
-
 
 </p>
 
@@ -39,7 +34,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="42" alt="oracle logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
 </div>
 
@@ -87,15 +86,12 @@
   <br>
   <br>
 </p>
-
 <hr>
 
 ###
-
 
 <h4 align="center">
   <a href="https://github.com/SahadatIslamAsif?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 ###
-
