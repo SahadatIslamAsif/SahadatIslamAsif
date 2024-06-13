@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Greetings, Welcome here ! <br> I am Sahadat Islam Asif, an enthusiastic programmer and a student at American International University-Bangladesh (AIUB), where I am pursuing a Bachelor of Science in Computer Science and Engineering (CSE).💻
+<p align="left">Greetings, welcome here ! <br> I am Sahadat Islam Asif, an enthusiastic programmer and a student at American International University-Bangladesh (AIUB), where I am pursuing a Bachelor of Science in Computer Science and Engineering (CSE).💻
 
 </p>
 
