@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Sahadat%20Islam%20Asif&fontSize=52&fontAlignY=36&fontColor=FFFFFF&animation=fadeIn&desc=CSE%20Student%20%E2%80%A2%20Java%20%26%20C%2B%2B%20Developer%20%E2%80%A2%20AI%20%26%20Robotics%20Enthusiast&descAlignY=58&descSize=20&descColor=80CBC4)](https://github.com/SahadatIslamAsif)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Sahadat%20Islam%20Asif&fontSize=52&fontAlignY=36&fontColor=FFFFFF&animation=fadeIn&desc=CSE%20Student%20%40%20AIUB%20%7C%20Java%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20&descColor=80CBC4)](https://github.com/SahadatIslamAsif)
 
 <div align="center">
 
