@@ -1,21 +1,15 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Sahadat%20Islam%20Asif&fontSize=52&fontAlignY=36&fontColor=FFFFFF&animation=fadeIn&desc=CSE%20Student%20%40%20AIUB%20%7C%20Java%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=20&descColor=80CBC4)](https://github.com/SahadatIslamAsif)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Sahadat%20Islam%20Asif&fontSize=52&fontAlignY=36&fontColor=FFFFFF&animation=fadeIn&desc=CSE%20Student%20%40AIUB%20%7C%20AI%2FML%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=58&descSize=20&descColor=80CBC4)](https://github.com/SahadatIslamAsif)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=80CBC4&center=true&vCenter=true&random=false&width=680&lines=BSc+CSE+%40+AIUB+%E2%80%94+Dhaka%2C+Bangladesh;Java+%26+C%2B%2B+Developer+%E2%80%94+OOP+%26+DSA;Learning+C%23+%26+exploring+AI+%26+Robotics;Always+building%2C+always+learning+%F0%9F%8C%B1)](https://github.com/SahadatIslamAsif)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=80CBC4&center=true&vCenter=true&random=false&width=680&lines=BSc+CSE+%40+AIUB+%E2%80%94+Dhaka%2C+Bangladesh;Learning+ML+System+Design+%26+MLOps;AI-driven+applications+%26+intelligent+automation)](https://github.com/SahadatIslamAsif)
 
 [![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Internship_%E2%80%A2_Collaboration_%E2%80%A2_Projects-26A69A?style=for-the-badge&labelColor=0F2027)](mailto:siasif23@gmail.com)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0F2027?style=for-the-badge&logo=linkedin&logoColor=29B6F6)](https://www.linkedin.com/in/md-sahadat-islam-8a8ba5266/)
 [![Gmail](https://img.shields.io/badge/EMAIL-0F2027?style=for-the-badge&logo=gmail&logoColor=EF5350)](mailto:siasif23@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-0F2027?style=for-the-badge&logo=instagram&logoColor=EF5350)](https://www.instagram.com/_.asif_______/)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-0F2027?style=for-the-badge&logo=facebook&logoColor=29B6F6)](https://www.facebook.com/ashraf.asif.3958)
-
-<br/>
 
 [![Visitors](https://komarev.com/ghpvc/?username=SahadatIslamAsif&style=for-the-badge&color=2C5364&labelColor=0F2027&label=VISITORS)](https://github.com/SahadatIslamAsif)
 
@@ -28,28 +22,29 @@
 ```javascript
 const asif = {
     name:      "Sahadat Islam Asif",
-    role:      "CSE Student | Java & C++ Developer | AI & Robotics Enthusiast",
+    role:      "CSE Student | AI/ML Developer | Full Stack Builder",
     education: "BSc CSE @ AIUB — American International University-Bangladesh",
     location:  "Dhaka, Bangladesh",
 
     current: {
-        building:  "Java OOP projects & desktop applications",
-        learning:  "C#, Data Structures & Algorithms in C++",
-        exploring: "Artificial Intelligence & Robotics",
+        building:  "AI-driven applications & intelligent automation",
+        learning:  "ML System Design & MLOps",
+        exploring: "Full Stack Development & Deep Learning",
     },
 
     skills: [
         "Java & Java Swing — OOP, desktop application development",
-        "C & C++ — DSA, systems programming, competitive coding",
-        "Web — HTML5, CSS3, JavaScript fundamentals",
-        "Database — Oracle SQL & relational database design",
+        "Python — AI/ML, data engineering, scripting",
+        "TypeScript & JavaScript — full stack web development",
+        "C++ — DSA, systems programming, competitive coding",
+        "Database — Oracle SQL & MySQL, relational design",
     ],
 
     highlights: [
         "Built a full-featured Mess Management System in Java",
         "Strong foundation in OOP and software design principles",
-        "Fascinated by AI, Robotics & cutting-edge technology",
-        "Continuous learner — always exploring new challenges",
+        "Fascinated by AI/ML, automation & cutting-edge technology",
+        "1st Runner-Up mindset — always exploring new challenges",
     ]
 };
 ```
@@ -62,42 +57,33 @@ const asif = {
 
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=java,cpp,cs,c,python&theme=dark&perline=5)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,ts,cpp,js,dart&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
-### Web & Database
+### AI/ML & Data
 
 <div align="center">
 
-[![Web](https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark&perline=5)](https://skillicons.dev)
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
-### Tools & Platforms
+### Frontend & Backend
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark&perline=5)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,firebase,html,css,js&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
----
-
-## About Me
+### Databases & Tools
 
 <div align="center">
 
-| | |
-| --- | --- |
-| 🎓 **Education** | BSc in Computer Science & Engineering — AIUB |
-| 🔭 **Currently working on** | Java programming & OOP projects |
-| 👯 **Looking to collaborate on** | Software projects & open source |
-| 🤝 **Need help with** | Advanced AI & Machine Learning topics |
-| 🌱 **Currently learning** | C# and Data Structures & Algorithms in C++ |
-| 💬 **Ask me about** | Java, Java Swing, C++, OOP concepts |
-| 📍 **Location** | Dhaka, Bangladesh |
-| ⚡ **Fun fact** | I actually do look like a coder 😄 |
+[![Tools](https://skillicons.dev/icons?i=mysql,git,linux&theme=dark&perline=5)](https://skillicons.dev)
+&nbsp;
+[![Oracle](https://img.shields.io/badge/Oracle-0F2027?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/)
 
 </div>
 
@@ -105,30 +91,9 @@ const asif = {
 
 ## Projects
 
-<div align="center">
+- **[MessSolution](https://github.com/SahadatIslamAsif/MessSolution)** — Full-featured Mess Management System for calculating household costs, tracking consumption, and generating detailed reports · `Java` `OOP` `Java Swing`
 
-| | Project | Description | Tech |
-| --- | --- | --- | --- |
-| 💠 | **[MessSolution](https://github.com/SahadatIslamAsif/MessSolution)** | Full-featured Mess Management System — calculates household costs, consumption tracking & detailed reporting | `Java` `OOP` `Java Swing` |
-| 💠 | **[WebTech_LabTask](https://github.com/SahadatIslamAsif/WebTech_LabTask)** | Web Technologies coursework — HTML, CSS layouts and JavaScript exercises from AIUB lab sessions | `HTML` `CSS` `JavaScript` |
-
-</div>
-
----
-
-## What I Build
-
-<div align="center">
-
-**Java & OOP** — Desktop applications with Java Swing, Object-Oriented design patterns, clean architecture
-
-**C & C++ & DSA** — Data Structures, Algorithms, competitive problem solving, performance-oriented code
-
-**Web Development** — HTML5, CSS3, JavaScript fundamentals, responsive UI design
-
-**Database** — Oracle SQL & MySQL, relational database design, query optimization
-
-</div>
+- **[WebTech_LabTask](https://github.com/SahadatIslamAsif/WebTech_LabTask)** — Web Technologies coursework covering HTML, CSS layouts, and JavaScript exercises from AIUB lab sessions · `HTML` `CSS` `JavaScript`
 
 ---
 
