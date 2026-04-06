@@ -23,28 +23,18 @@
 const asif = {
     name:      "Sahadat Islam Asif",
     role:      "CSE Student | AI/ML Developer | Full Stack Builder",
-    education: "BSc CSE @ AIUB — American International University-Bangladesh",
-    location:  "Dhaka, Bangladesh",
-
+    focus:     "Advanced AI/ML systems & real-world implementations",
     current: {
-        building:  "AI-driven applications & intelligent automation",
         learning:  "ML System Design & MLOps",
-        exploring: "Full Stack Development & Deep Learning",
+        building:  "AI-driven applications & scalable systems",
+        exploring: "Deep Learning & intelligent automation",
     },
-
     skills: [
-        "Java & Java Swing — OOP, desktop application development",
-        "Python — AI/ML, data engineering, scripting",
-        "TypeScript & JavaScript — full stack web development",
-        "C++ — DSA, systems programming, competitive coding",
-        "Database — Oracle SQL & MySQL, relational design",
-    ],
-
-    highlights: [
-        "Built a full-featured Mess Management System in Java",
-        "Strong foundation in OOP and software design principles",
-        "Fascinated by AI/ML, automation & cutting-edge technology",
-        "1st Runner-Up mindset — always exploring new challenges",
+        "C++ — DSA, systems programming",
+        "Java, Python, TypeScript, JavaScript, Dart",
+        "TensorFlow, PyTorch — AI/ML",
+        "React, Firebase — Full Stack",
+        "MySQL, Oracle, Git, Linux",
     ]
 };
 ```
@@ -53,33 +43,21 @@ const asif = {
 
 ## Tech Stack
 
-### Languages
-
 <div align="center">
+
+### Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,python,ts,cpp,js,dart&theme=dark&perline=6)](https://skillicons.dev)
 
-</div>
-
 ### AI/ML & Data
-
-<div align="center">
 
 [![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=5)](https://skillicons.dev)
 
-</div>
-
 ### Frontend & Backend
-
-<div align="center">
 
 [![Frontend](https://skillicons.dev/icons?i=react,firebase,html,css,js&theme=dark&perline=5)](https://skillicons.dev)
 
-</div>
-
 ### Databases & Tools
-
-<div align="center">
 
 [![Tools](https://skillicons.dev/icons?i=mysql,git,linux&theme=dark&perline=5)](https://skillicons.dev)
 &nbsp;
@@ -91,9 +69,9 @@ const asif = {
 
 ## Projects
 
-- **[MessSolution](https://github.com/SahadatIslamAsif/MessSolution)** — Full-featured Mess Management System for calculating household costs, tracking consumption, and generating detailed reports · `Java` `OOP` `Java Swing`
+- **[TakaStrategist](https://github.com/SahadatIslamAsif/takastrategist)** — Full-stack personal finance web app to track income & expenses, set monthly budgets, and visualize spending trends. Features token-based email auth, real-time transaction search, 5 Chart.js analytics charts, admin panel, and a clean layered PHP architecture (Controller → Service → Repository) with no heavy frameworks · `PHP 8.1` `MySQL` `JavaScript` `Chart.js` `AJAX` `HTML5` `CSS3`
 
-- **[WebTech_LabTask](https://github.com/SahadatIslamAsif/WebTech_LabTask)** — Web Technologies coursework covering HTML, CSS layouts, and JavaScript exercises from AIUB lab sessions · `HTML` `CSS` `JavaScript`
+- **[MessSolution](https://github.com/SahadatIslamAsif/MessSolution)** — Desktop app for managing shared household mess expenses. Tracks each member's grocery contributions, meal consumption & utility bills, then auto-calculates net costs per member. Features user auth, profile editing, formula viewer, and `.txt` export of the full monthly summary · `Java` `Java Swing` `OOP` `File I/O`
 
 ---
 
