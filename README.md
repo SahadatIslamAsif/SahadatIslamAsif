@@ -51,7 +51,7 @@ const asif = {
 
 ### AI/ML & Data
 
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch&theme,r&theme=dark&perline=5)](https://skillicons.dev)
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,r&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Frontend & Backend
 
