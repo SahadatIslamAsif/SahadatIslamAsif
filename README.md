@@ -47,7 +47,7 @@ const asif = {
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,python,ts,r&theme,cpp,js,dart&theme=dark&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,ts,cpp,js,dart,r&theme=dark&perline=7)](https://skillicons.dev)
 
 ### AI/ML & Data
 
