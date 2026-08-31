@@ -92,9 +92,8 @@ const asif = {
 [![Streak Stats](https://streak-stats.demolab.com?user=SahadatIslamAsif&hide_border=true&background=0F2027&ring=26A69A&fire=EF5350&currStreakLabel=80CBC4&sideLabels=80CBC4&currStreakNum=E0F7FA&sideNums=E0F7FA&dates=546E7A&stroke=2C5364)](https://github.com/SahadatIslamAsif)
 
 <br/>
-
-##[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahadatIslamAsif&hide_border=true&bg_color=0F2027&color=80CBC4&line=26A69A&point=E0F7FA&area=true&area_color=2C5364)]
-##(https://github.com/SahadatIslamAsif)
+//[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SahadatIslamAsif&hide_border=true&bg_color=0F2027&color=80CBC4&line=26A69A&point=E0F7FA&area=true&area_color=2C5364)]
+//(https://github.com/SahadatIslamAsif)
 
 </div>
 
