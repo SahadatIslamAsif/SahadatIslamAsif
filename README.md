@@ -31,9 +31,9 @@ const asif = {
     },
     skills: [
         "C++ — DSA, systems programming",
-        "Java, Python, TypeScript, JavaScript, Dart",
+        "Java, Python, TypeScript, JavaScript",
         "TensorFlow, PyTorch — AI/ML",
-        "React, Firebase — Full Stack",
+        "React, Next.js, Firebase, Supabase, Fast-API — Full Stack",
         "MySQL, Oracle, Git, Linux",
     ]
 };
