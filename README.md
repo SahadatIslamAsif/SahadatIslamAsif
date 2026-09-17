@@ -69,6 +69,10 @@ const asif = {
 
 ## Projects
 
+In your list's exact link + bold + tech-stack format:
+
+- **[BartaScope](https://github.com/SahadatIslamAsif/BartaScope)** — Multilingual SMS threat classifier (normal, transactional, promotional, phishing) across Bangla, English, and code-mixed text, served via ONNX Runtime for sub-10ms inference. Features a fine-tuned MiniLM transformer benchmarked against a classical baseline, INT8 quantization evaluated and rejected on measured safety grounds, load-shedding that cuts p95 latency under overload by 164×, and a full FastAPI + Docker microservice with k6 load testing · `Python` `PyTorch` `ONNX Runtime` `FastAPI` `Docker` `Streamlit` `k6` `Hugging Face`
+
 - **[TakaStrategist](https://github.com/SahadatIslamAsif/takastrategist)** — Full-stack personal finance web app to track income & expenses, set monthly budgets, and visualize spending trends. Features token-based email auth, real-time transaction search, 5 Chart.js analytics charts, admin panel, and a clean layered PHP architecture (Controller → Service → Repository) with no heavy frameworks · `PHP 8.1` `MySQL` `JavaScript` `Chart.js` `AJAX` `HTML5` `CSS3`
 
 - **[MessSolution](https://github.com/SahadatIslamAsif/MessSolution)** — Desktop app for managing shared household mess expenses. Tracks each member's grocery contributions, meal consumption & utility bills, then auto-calculates net costs per member. Features user auth, profile editing, formula viewer, and `.txt` export of the full monthly summary · `Java` `Java Swing` `OOP` `File I/O`
