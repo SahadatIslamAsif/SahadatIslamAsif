@@ -47,19 +47,19 @@ const asif = {
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,python,ts,cpp,js,dart,r&theme=dark&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,ts,cpp,js,r&theme=dark&perline=7)](https://skillicons.dev)
 
 ### AI/ML & Data
 
-[![AI/ML](https://skillicons.dev/icons?i=tensorflow,pytorch,r&theme=dark&perline=5)](https://skillicons.dev)
+[![AI/ML](https://skillicons.dev/icons?i=pytorch,r&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Frontend & Backend
 
-[![Frontend](https://skillicons.dev/icons?i=react,firebase,html,css,js&theme=dark&perline=5)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,js&theme=dark&perline=5)](https://skillicons.dev)
 
 ### Databases & Tools
 
-[![Tools](https://skillicons.dev/icons?i=mysql,git,linux&theme=dark&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=mysql,supabase,git,linux&theme=dark&perline=5)](https://skillicons.dev)
 &nbsp;
 [![Oracle](https://img.shields.io/badge/Oracle-0F2027?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/)
 
