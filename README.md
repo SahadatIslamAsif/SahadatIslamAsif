@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-0F2027?style=for-the-badge&logo=instagram&logoColor=EF5350)](https://www.instagram.com/_.asif_______/)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-0F2027?style=for-the-badge&logo=facebook&logoColor=29B6F6)](https://www.facebook.com/ashraf.asif.3958)
 
-[![Visitors](https://komarev.com/ghpvc/?username=SahadatIslamAsif&style=for-the-badge&color=2C5364&labelColor=0F2027&label=VISITORS)](https://github.com/SahadatIslamAsif)
+[![Visitors](https://komarev.com/ghpvc/?username=SahadatIslamAsif&style=for-the-badge&color=2C5364&labelColor=0F2027&label=VISITORS&v=2)](https://github.com/SahadatIslamAsif)
 
 </div>
 
