@@ -47,7 +47,7 @@ const asif = {
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,python,ts,cpp,js,r&theme=dark&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,ts,cpp,cs,js,r&theme=dark&perline=7)](https://skillicons.dev)
 
 ### AI/ML & Data
 
@@ -59,7 +59,7 @@ const asif = {
 
 ### Databases & Tools
 
-[![Tools](https://skillicons.dev/icons?i=mysql,supabase,git,linux&theme=dark&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=mysql,supabase,git,docker,linux&theme=dark&perline=5)](https://skillicons.dev)
 &nbsp;
 [![Oracle](https://img.shields.io/badge/Oracle-0F2027?style=for-the-badge&logo=oracle&logoColor=F80000)](https://www.oracle.com/)
 
@@ -69,8 +69,8 @@ const asif = {
 
 ## Projects
 
-In your list's exact link + bold + tech-stack format:
-
+- **[PlaypenGo](https://github.com/SahadatIslamAsif/PlaypenGo)** — Real-time assessment tracker for a school student, their guardian, and their tutor, built because the school portal only publishes marks at semester end. Scans marked exam papers with Gemini Flash (all pages in one call, structured output), resolves the mark and chapters deterministically in code, and puts every field through a human review screen before anything is saved. Predicts unannounced class tests from syllabus progress against the class routine, sends one evening email digest per person, and enforces three distinct roles with row-level security on every table, tested with pgTAP · `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Gemini API` `Vitest` `Vercel` · [Live](https://playpengo.vercel.app/)
+  
 - **[BartaScope](https://github.com/SahadatIslamAsif/BartaScope)** — Multilingual SMS threat classifier (normal, transactional, promotional, phishing) across Bangla, English, and code-mixed text, served via ONNX Runtime for sub-10ms inference. Features a fine-tuned MiniLM transformer benchmarked against a classical baseline, INT8 quantization evaluated and rejected on measured safety grounds, load-shedding that cuts p95 latency under overload by 164×, and a full FastAPI + Docker microservice with k6 load testing · `Python` `PyTorch` `ONNX Runtime` `FastAPI` `Docker` `Streamlit` `k6` `Hugging Face`
 
 - **[TakaStrategist](https://github.com/SahadatIslamAsif/takastrategist)** — Full-stack personal finance web app to track income & expenses, set monthly budgets, and visualize spending trends. Features token-based email auth, real-time transaction search, 5 Chart.js analytics charts, admin panel, and a clean layered PHP architecture (Controller → Service → Repository) with no heavy frameworks · `PHP 8.1` `MySQL` `JavaScript` `Chart.js` `AJAX` `HTML5` `CSS3`
